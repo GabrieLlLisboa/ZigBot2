@@ -29,7 +29,7 @@
 // ⚙️ CONFIGURAÇÕES
 #define DISTANCIA_MINIMA 20    // Distância mínima para evasão (cm)
 #define DISTANCIA_SEGURA 30    // Distância segura para retomar movimento (cm)
-#define VELOCIDADE_FRENTE 255  // Velocidade para frente (0-255) - MÁXIMA
+#define VELOCIDADE_FRENTE 0  // Velocidade para frente (0-255) - MÁXIMA
 #define VELOCIDADE_VIRAR 255   // Velocidade para virar (0-255) - MÁXIMA
 #define TEMPO_VIRAR 800        // Tempo para virar (ms)
 
